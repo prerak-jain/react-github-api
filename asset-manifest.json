@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-github-api/static/css/main.a149c40a.chunk.css",
+    "main.js": "/react-github-api/static/js/main.43424dea.chunk.js",
+    "main.js.map": "/react-github-api/static/js/main.43424dea.chunk.js.map",
+    "runtime-main.js": "/react-github-api/static/js/runtime-main.fec853ca.js",
+    "runtime-main.js.map": "/react-github-api/static/js/runtime-main.fec853ca.js.map",
+    "static/css/2.f68097fa.chunk.css": "/react-github-api/static/css/2.f68097fa.chunk.css",
+    "static/js/2.46a9e99a.chunk.js": "/react-github-api/static/js/2.46a9e99a.chunk.js",
+    "static/js/2.46a9e99a.chunk.js.map": "/react-github-api/static/js/2.46a9e99a.chunk.js.map",
+    "index.html": "/react-github-api/index.html",
+    "precache-manifest.36baf1fb4682149594d609221c59ee2b.js": "/react-github-api/precache-manifest.36baf1fb4682149594d609221c59ee2b.js",
+    "service-worker.js": "/react-github-api/service-worker.js",
+    "static/css/2.f68097fa.chunk.css.map": "/react-github-api/static/css/2.f68097fa.chunk.css.map",
+    "static/css/main.a149c40a.chunk.css.map": "/react-github-api/static/css/main.a149c40a.chunk.css.map",
+    "static/js/2.46a9e99a.chunk.js.LICENSE.txt": "/react-github-api/static/js/2.46a9e99a.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/react-github-api/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fec853ca.js",
+    "static/css/2.f68097fa.chunk.css",
+    "static/js/2.46a9e99a.chunk.js",
+    "static/css/main.a149c40a.chunk.css",
+    "static/js/main.43424dea.chunk.js"
+  ]
+}
