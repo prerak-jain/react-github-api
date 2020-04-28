@@ -1,0 +1,48 @@
+.page-header {
+  text-align: center;
+  padding: 10px;
+  background-color: #000;
+  color: #fff;
+}
+
+.repo-link {
+  float: right;
+  height: 35px;
+  width: 150px;
+  border: 2px solid white;
+  padding: 5px;
+  border-radius: 5px;
+  position: absolute;
+  right: 10px;
+  top: 5px;
+}
+
+.repo-link {
+  color: white;
+}
+
+.repo-link :hover {
+  color: #fff;
+}
+
+@media (max-width: 700px) {
+  .repo-link {
+    font-size: 0.8rem;
+    width: 120px;
+    height: 30px;
+    padding: 3px;
+    top: 7px;
+  }
+}
+
+@media (max-width: 400px) {
+  .repo-link {
+    font-size: 0.7rem;
+    width: 98px;
+    height: 25px;
+    padding: 1.5px;
+    top: 9px;
+    position: absolute;
+    right: 3px;
+  }
+}
